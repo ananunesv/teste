@@ -1,9 +1,6 @@
-baseURL: "https://ananunesv.github.io/teste/"
+baseURL: "/"
 languageCode: "pt-br"
 title: "MDS - Documentação"
-
-# Tema
-theme: "ananke"
 
 # Configurações básicas
 disableKinds: ["taxonomy", "term"]
