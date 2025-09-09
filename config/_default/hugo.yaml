@@ -1,8 +1,9 @@
-baseURL: "/"
+baseURL: "https://ananunesv.github.io/teste/"
 languageCode: "pt-br"
 title: "MDS - Documentação"
 
 # Configurações básicas
+contentDir: "docs/content"
 disableKinds: ["taxonomy", "term"]
 enableRobotsTXT: true
 

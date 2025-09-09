@@ -1,11 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MDS - Documentação</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on MDS - Documentação</description>
+    <title>B.I.I.A - Buscadora de Investimentos em Inteligência Artificial on MDS - Documentação</title>
+    <link>http://localhost:1313/teste/</link>
+    <description>Recent content in B.I.I.A - Buscadora de Investimentos em Inteligência Artificial on MDS - Documentação</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issues da Sprint 0</title>
+      <link>http://localhost:1313/teste/sprint/sprint-0/issues/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-0/issues/</guid>
+      <description>&lt;h1 id=&#34;issues-da-sprint-0&#34;&gt;Issues da Sprint 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;concluídas&#34;&gt;Concluídas&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudo de Arquitetura&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 0&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre requisitos&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 0&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre os comandos do Ubuntu (Linux)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 0&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre ciclos de vida&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 0&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre Git e Github&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 0&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Issues da Sprint 01</title>
+      <link>http://localhost:1313/teste/sprint/sprint-01/issues/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-01/issues/</guid>
+      <description>&lt;h1 id=&#34;issues-da-sprint-01&#34;&gt;Issues da Sprint 01&lt;/h1&gt;&#xA;&lt;h2 id=&#34;em-andamento&#34;&gt;Em Andamento&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;#001 - Setup inicial do ambiente de desenvolvimento&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @dev1&lt;/li&gt;&#xA;&lt;li&gt;Pontos: 3&lt;/li&gt;&#xA;&lt;li&gt;Status: Em progresso&lt;/li&gt;&#xA;&lt;li&gt;Descrição: Configurar ambiente base do projeto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;#002 - Definição da arquitetura&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @dev2&lt;/li&gt;&#xA;&lt;li&gt;Pontos: 5&lt;/li&gt;&#xA;&lt;li&gt;Status: Em análise&lt;/li&gt;&#xA;&lt;li&gt;Descrição: Documentar decisões arquiteturais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;concluídas&#34;&gt;Concluídas&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;#003 - Configuração do repositório&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @dev3&lt;/li&gt;&#xA;&lt;li&gt;Pontos: 2&lt;/li&gt;&#xA;&lt;li&gt;Status: Finalizado&lt;/li&gt;&#xA;&lt;li&gt;Descrição: Setup inicial do Git e GitHub&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;backlog&#34;&gt;Backlog&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;#004 - Protótipos iniciais&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: Não atribuído&lt;/li&gt;&#xA;&lt;li&gt;Pontos: 8&lt;/li&gt;&#xA;&lt;li&gt;Status: To Do&lt;/li&gt;&#xA;&lt;li&gt;Descrição: Criar wireframes das telas principais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Issues da Sprint 1</title>
+      <link>http://localhost:1313/teste/sprint/sprint-1/issues/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-1/issues/</guid>
+      <description>&lt;h1 id=&#34;issues-da-sprint-1&#34;&gt;Issues da Sprint 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;concluídas&#34;&gt;Concluídas&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos Sobre Guia do Scrum&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos Sobre Manipulação de Dados&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre Markdown&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre Básico de Figma&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos de API&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsável: @ananunesv&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;li&gt;Tag: research&lt;/li&gt;&#xA;&lt;li&gt;Sprint: Sprint 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estudos sobre Métrica de Open Source&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Material de Estudos - Arquitetura</title>
+      <link>http://localhost:1313/teste/arquitetura/material-estudos/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/arquitetura/material-estudos/</guid>
+      <description>&lt;h1 id=&#34;material-de-estudos---arquitetura&#34;&gt;Material de Estudos - Arquitetura&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;EM CONSTRUÇÃO&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Material de Estudos - Sprint 01</title>
+      <link>http://localhost:1313/teste/sprint/sprint-0/material-estudos/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-0/material-estudos/</guid>
+      <description>&lt;h1 id=&#34;material-de-estudos---sprint-01&#34;&gt;Material de Estudos - Sprint 01&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;EM CONSTRUÇÃO&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Material de Estudos - Sprint 01</title>
+      <link>http://localhost:1313/teste/sprint/sprint-01/material-estudos/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-01/material-estudos/</guid>
+      <description>&lt;h1 id=&#34;material-de-estudos---sprint-01&#34;&gt;Material de Estudos - Sprint 01&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;EM CONSTRUÇÃO&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Material de Estudos - Sprint 1</title>
+      <link>http://localhost:1313/teste/sprint/sprint-1/material-estudos/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-1/material-estudos/</guid>
+      <description>&lt;h1 id=&#34;material-de-estudos---sprint-1&#34;&gt;Material de Estudos - Sprint 1&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;EM CONSTRUÇÃO&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reuniões da Sprint 0</title>
+      <link>http://localhost:1313/teste/sprint/sprint-0/reunioes/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-0/reunioes/</guid>
+      <description>&lt;h1 id=&#34;reuniões-da-sprint-0&#34;&gt;Reuniões da Sprint 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;relatório-da-reunião&#34;&gt;Relatório da Reunião&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;27 de Agosto de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; 27/08&lt;br&gt;&#xA;&lt;strong&gt;Formato:&lt;/strong&gt; Reunião online&lt;br&gt;&#xA;&lt;strong&gt;Tema:&lt;/strong&gt; Passos iniciais&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-sumário&#34;&gt;1. Sumário&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git/GitHub Flow&lt;/li&gt;&#xA;&lt;li&gt;Gestão de Projeto&lt;/li&gt;&#xA;&lt;li&gt;Fundamentos Técnicos&lt;/li&gt;&#xA;&lt;li&gt;Metodologia Ágil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-tópicos-abordados&#34;&gt;2. Tópicos Abordados&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estrutura de branches: main (produção) → develop (base) → features/hotfix&lt;/li&gt;&#xA;&lt;li&gt;Issues como organização de tarefas&lt;/li&gt;&#xA;&lt;li&gt;Milestones representando sprints&lt;/li&gt;&#xA;&lt;li&gt;Pull Requests para revisão de código&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Requisitos de Software&lt;/strong&gt; - apresentado por Rodrigo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Arquitetura de Software&lt;/strong&gt; - apresentado por João Morais&lt;/li&gt;&#xA;&lt;li&gt;Definição de Dailies, Reviews e Retrospectives&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-próximas-issues&#34;&gt;3. Próximas Issues&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estudos Sobre Guia do Scrum&lt;/li&gt;&#xA;&lt;li&gt;Estudos Sobre Manipulação de Dados&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Markdown&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Básico de Figma&lt;/li&gt;&#xA;&lt;li&gt;Estudos de API&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Métrica de Open Source&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;resumo&#34;&gt;Resumo&lt;/h2&gt;&#xA;&lt;p&gt;Nós entraremos no Google Meet para discutir algumas questões pendentes dentro de um intervalo de 1 hora e meia a partir das 19:30. Dentre elas, discutiremos GitHub e GitFlow, além de PR&amp;rsquo;s e organização das branchs. Após essa introdução, explicaremos Requisitos de Software e Arquitetura de Software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reuniões da Sprint 0</title>
+      <link>http://localhost:1313/teste/sprint/sprint-01/reunioes/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-01/reunioes/</guid>
+      <description>&lt;h1 id=&#34;reuniões-da-sprint-0&#34;&gt;Reuniões da Sprint 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;relatório-da-reunião&#34;&gt;Relatório da Reunião&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;27 de Agosto de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; 27/08&lt;br&gt;&#xA;&lt;strong&gt;Formato:&lt;/strong&gt; Reunião online&lt;br&gt;&#xA;&lt;strong&gt;Tema:&lt;/strong&gt; Passos iniciais&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-sumário&#34;&gt;1. Sumário&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git/GitHub Flow&lt;/li&gt;&#xA;&lt;li&gt;Gestão de Projeto&lt;/li&gt;&#xA;&lt;li&gt;Fundamentos Técnicos&lt;/li&gt;&#xA;&lt;li&gt;Metodologia Ágil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-tópicos-abordados&#34;&gt;2. Tópicos Abordados&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estrutura de branches: main (produção) → develop (base) → features/hotfix&lt;/li&gt;&#xA;&lt;li&gt;Issues como organização de tarefas&lt;/li&gt;&#xA;&lt;li&gt;Milestones representando sprints&lt;/li&gt;&#xA;&lt;li&gt;Pull Requests para revisão de código&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Requisitos de Software&lt;/strong&gt; - apresentado por Rodrigo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Arquitetura de Software&lt;/strong&gt; - apresentado por João Morais&lt;/li&gt;&#xA;&lt;li&gt;Definição de Dailies, Reviews e Retrospectives&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-próximas-issues&#34;&gt;3. Próximas Issues&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estudos Sobre Guia do Scrum&lt;/li&gt;&#xA;&lt;li&gt;Estudos Sobre Manipulação de Dados&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Markdown&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Básico de Figma&lt;/li&gt;&#xA;&lt;li&gt;Estudos de API&lt;/li&gt;&#xA;&lt;li&gt;Estudos sobre Métrica de Open Source&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;resumo&#34;&gt;Resumo&lt;/h2&gt;&#xA;&lt;p&gt;Nós entraremos no Google Meet para discutir algumas questões pendentes dentro de um intervalo de 1 hora e meia a partir das 19:30. Dentre elas, discutiremos GitHub e GitFlow, além de PR&amp;rsquo;s e organização das branchs. Após essa introdução, explicaremos Requisitos de Software e Arquitetura de Software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reuniões da Sprint 00</title>
+      <link>http://localhost:1313/teste/sprint/sprint-00/reunioes/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-00/reunioes/</guid>
+      <description>&lt;h1 id=&#34;reuniões-da-sprint-00&#34;&gt;Reuniões da Sprint 00&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Não houve reunião nesta sprint.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reuniões da Sprint 1</title>
+      <link>http://localhost:1313/teste/sprint/sprint-1/reunioes/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint-1/reunioes/</guid>
+      <description>&lt;h1 id=&#34;reuniões-da-sprint-1&#34;&gt;Reuniões da Sprint 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;relatório-da-reunião&#34;&gt;Relatório da Reunião&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Não documentado&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;resumo&#34;&gt;Resumo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Não documentado&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sprint: 1&lt;/li&gt;&#xA;&lt;li&gt;Período: 03/09/25 a 10/09/25&lt;/li&gt;&#xA;&lt;li&gt;Status: Concluído&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daily-scrum&#34;&gt;Daily Scrum&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Não documentado&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sprint 00 - Iniciação</title>
+      <link>http://localhost:1313/teste/sprint/sprint00/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/sprint/sprint00/</guid>
+      <description>&lt;h1 id=&#34;sprint-00---iniciação-do-projeto&#34;&gt;Sprint 00 - Iniciação do Projeto&lt;/h1&gt;&#xA;&lt;h2 id=&#34;período&#34;&gt;Período&lt;/h2&gt;&#xA;&lt;p&gt;09/09/2025 - 16/09/2025&lt;/p&gt;&#xA;&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Setup inicial do ambiente de desenvolvimento&lt;/li&gt;&#xA;&lt;li&gt;Definição do escopo do projeto&lt;/li&gt;&#xA;&lt;li&gt;Configuração do repositório&lt;/li&gt;&#xA;&lt;li&gt;Treinamento da equipe em Git&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;atividades-realizadas&#34;&gt;Atividades Realizadas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Criação do repositório no GitHub&lt;/li&gt;&#xA;&lt;li&gt;Configuração do ambiente de desenvolvimento&lt;/li&gt;&#xA;&lt;li&gt;Workshop de Git para a equipe&lt;/li&gt;&#xA;&lt;li&gt;Definição inicial do produto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;histórico-de-reuniões&#34;&gt;Histórico de Reuniões&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;09/09&lt;/strong&gt; - Kickoff do projeto&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;11/09&lt;/strong&gt; - Planning meeting&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;13/09&lt;/strong&gt; - Daily Scrum&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;15/09&lt;/strong&gt; - Review meeting&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

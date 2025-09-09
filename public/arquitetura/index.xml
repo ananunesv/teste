@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arquitetura on MDS - Documentação</title>
+    <link>http://localhost:1313/teste/arquitetura/</link>
+    <description>Recent content in Arquitetura on MDS - Documentação</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teste/arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Material de Estudos - Arquitetura</title>
+      <link>http://localhost:1313/teste/arquitetura/material-estudos/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teste/arquitetura/material-estudos/</guid>
+      <description>&lt;h1 id=&#34;material-de-estudos---arquitetura&#34;&gt;Material de Estudos - Arquitetura&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;EM CONSTRUÇÃO&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
