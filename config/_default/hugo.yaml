@@ -1,6 +1,7 @@
 baseURL: "https://ananunesv.github.io/teste/"
 languageCode: "pt-br"
 title: "MDS - Documentação"
+theme: "mds"
 
 # Configurações básicas
 contentDir: "docs/content"
