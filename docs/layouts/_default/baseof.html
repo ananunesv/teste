@@ -35,6 +35,7 @@
 </head>
 <body>
     <nav>
+        <!-- Navegação atualizada em {{ now.Format "15:04:05" }} -->
         {{ range .Site.Menus.main }}
         <a href="{{ .URL | absURL }}">{{ .Name }}</a>
         {{ end }}
