@@ -5,8 +5,6 @@ date: 2025-09-09
 draft: false
 ---
 
-# B.I.I.A - Buscadora de Investimentos em Inteligência Artificial
-
 ## Sobre o Projeto
 
 Desenvolvimento de uma **plataforma web dinâmica** para monitoramento e análise de atos públicos municipais relacionados à adoção de tecnologias no contexto educacional, utilizando dados do projeto Querido Diário.
