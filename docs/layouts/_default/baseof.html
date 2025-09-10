@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>{{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Cache bust: {{ now.Unix }} -->
     <style>
         body {
             font-family: -apple-system, system-ui, sans-serif;
@@ -14,21 +15,28 @@
         }
         nav {
             margin-bottom: 30px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
         }
         nav a {
             margin-right: 20px;
             color: #333;
             text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            transition: background-color 0.2s;
         }
         nav a:hover {
             color: #dc2626;
+            background-color: #e9ecef;
         }
     </style>
 </head>
 <body>
     <nav>
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+        <a href="{{ .URL | absURL }}">{{ .Name }}</a>
         {{ end }}
     </nav>
     <main>
