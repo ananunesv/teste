@@ -28,7 +28,7 @@
 <body>
     <nav>
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
         {{ end }}
     </nav>
     <main>

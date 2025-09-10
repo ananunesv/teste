@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sprint 0 on MDS - Documentação</title>
+    <title>MDS - Documentação</title>
     <link>http://localhost:1313/teste/sprint/sprint-0/</link>
-    <description>Recent content in Sprint 0 on MDS - Documentação</description>
+    <description>Recent content on MDS - Documentação</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
