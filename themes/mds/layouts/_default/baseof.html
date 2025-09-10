@@ -36,7 +36,6 @@
 <body>
     <nav>
         <!-- Navegação atualizada em {{ now.Format "15:04:05" }} -->
-        <a href="{{ .Site.BaseURL }}">Home</a>
         {{ range .Site.Menus.main }}
         <a href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
