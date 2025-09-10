@@ -35,10 +35,10 @@
 </head>
 <body>
     <nav>
-        <!-- Navegação atualizada em {{ now.Format "15:04:05" }} -->
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL | absURL }}">{{ .Name }}</a>
-        {{ end }}
+        <!-- Navegação com URLs absolutas fixas -->
+        <a href="https://ananunesv.github.io/teste/">Home</a>
+        <a href="https://ananunesv.github.io/teste/sprint/">Sprints</a>
+        <a href="https://ananunesv.github.io/teste/arquitetura/">Arquitetura</a>
     </nav>
     <main>
         {{ .Content }}
