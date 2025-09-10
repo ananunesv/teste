@@ -17,20 +17,20 @@ Aqui você encontrará toda a documentação relacionada às sprints do projeto.
 
 ## Sprints Disponíveis
 
-### [Sprint 0](/sprint/sprint-0)
+### [Sprint 0](./sprint-0/)
 - Período: 27/08/25 a 03/09/25
 - Status: Concluído
 - Foco: Fundamentos Técnicos e Metodologia Ágil
-- [Reuniões](/sprint/sprint-0/reunioes) | [Issues](/sprint/sprint-0/issues) | [Material de Estudos](/sprint/sprint-0/material-estudos)
+- [Reuniões](./sprint-0/reunioes/) | [Issues](./sprint-0/issues/) | [Material de Estudos](./sprint-0/material-estudos/)
 
-### [Sprint 1](/sprint/sprint-1)
+### [Sprint 1](./sprint-1/)
 - Período: 03/09/25 a 10/09/25
 - Status: Concluído
 - Foco: Início do desenvolvimento
-- [Reuniões](/sprint/sprint-1/reunioes) | [Issues](/sprint/sprint-1/issues) | [Material de Estudos](/sprint/sprint-1/material-estudos)
+- [Reuniões](./sprint-1/reunioes/) | [Issues](./sprint-1/issues/) | [Material de Estudos](./sprint-1/material-estudos/)
 
-### Sprint 03
-- Período: 30/09/2025 - 07/10/2025
-- Status: Planejada
+### [Sprint 2](./sprint-2/)
+- Período: 10/09/25 a 17/09/25
+- Status: Em desenvolvimento
 - Foco: Implementação das funcionalidades principais
-- Em breve
+- [Reuniões](./sprint-2/reunioes/) | [Issues](./sprint-2/issues/) | [Material de Estudos](./sprint-2/material-estudos/)
