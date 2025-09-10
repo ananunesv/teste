@@ -3,10 +3,36 @@
 <head>
     <meta charset="utf-8">
     <title>{{ .Title }}</title>
+    <style>
+        nav {
+            background-color: #333;
+            padding: 1em;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5em 1em;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .content {
+            padding: 2em;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    </style>
 </head>
 <body>
-    <h1>{{ .Title }}</h1>
-    {{ block "main" . }}
-    {{ end }}
+    <nav>
+        <a href="{{ .Site.BaseURL }}">Home</a>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+
+    <div class="content">
+        {{ block "main" . }}{{ end }}
+    </div>
 </body>
 </html>
