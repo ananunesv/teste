@@ -5,7 +5,7 @@ theme: "mds"
 
 # Configurações básicas
 contentDir: "docs/content"
-disableKinds: ["taxonomy", "term"]
+disableKinds: ["taxonomy", "term", "RSS", "sitemap"]
 enableRobotsTXT: true
 
 # Menus

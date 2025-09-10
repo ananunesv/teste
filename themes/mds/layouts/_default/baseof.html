@@ -159,7 +159,7 @@
     <main>
         <div class="container">
             <div class="content">
-                {{ .Content }}
+                {{ block "main" . }}{{ end }}
             </div>
         </div>
     </main>
